@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/deepaksingh63/deepaksingh63/blob/main/githubBanner.png.png)
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right"alt="coding" width="400" src=https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif
